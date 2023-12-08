@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+#i1cltw {
+    font-size: 18px;
+    font-weight: 400;
+    background-color: #e0edf6;
+}
+
+.c2330 {
+    font-size: 16px;
+}
+
+.job-title {
+    color: #5a81e4;
+}
+
+.hero {
+    background-color: #ffffff;
+}
